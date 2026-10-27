@@ -19,13 +19,11 @@ Inspectra AI is an end-to-end computer vision application that classifies indust
 
 ## Screenshots
 
-Add screenshots to `docs/screenshots/` and uncomment the following lines once the files are committed:
 
-<!--
 ![Inspectra AI dashboard](docs/screenshots/dashboard.png)
 ![Defect prediction and confidence](docs/screenshots/prediction.png)
 ![Grad-CAM visualization](docs/screenshots/gradcam.png)
--->
+
 
 ## Defect Classes
 
